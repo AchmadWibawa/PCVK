@@ -1,3 +1,3 @@
 # PCVK
 
-berisikan praktikum mata kuliah pengolahan citra dan visi komputer
+Berisikan project-project mata kuliah pengolahan citra dan visi komputer
